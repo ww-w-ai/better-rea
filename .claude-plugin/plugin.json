@@ -1,10 +1,10 @@
 {
-  "name": "ww-w-rea-loop",
+  "name": "better-rea",
   "version": "0.1.0",
-  "description": "Run REA (Reverse Engineer Anything) inside an evidence-and-limits loop: every conclusion is a claim with evidence and a limit, checked before it is written.",
+  "description": "Use REA well. Wraps Reverse Engineer Anything in an evidence-and-limits loop, a fixed report template, and domain method notes, so the agent proves each claim about a compiled app with evidence or marks it unknown.",
   "author": { "name": "DubDubDub Corp. (ww-w.ai)", "url": "https://ww-w.ai" },
-  "homepage": "https://github.com/ww-w-ai/ww-w-rea-loop",
-  "repository": "https://github.com/ww-w-ai/ww-w-rea-loop",
+  "homepage": "https://github.com/ww-w-ai/better-rea",
+  "repository": "https://github.com/ww-w-ai/better-rea",
   "license": "MIT",
   "keywords": ["reverse-engineering", "rea", "ghidra", "evidence", "claude-code", "skill"]
 }
